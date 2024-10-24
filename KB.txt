@@ -1,0 +1,35 @@
+
+Agents Prior Knowledge
+
+
+	Procedures:
+ 
+		1) The agent can move in an adjacent direction. (e.g. Upwards, Downwards, Left, and Right)
+
+		2) The agent can reverse back to any previous adjacent spot they have traveled.
+
+		3) The agent will have to move 10 steps.
+
+ 		4) The agent will be moving around in a 4x4 grid.
+
+	Additional Information: 
+
+		1) The agent is not aware where the WUMPUS is stationed.
+
+		2) If a breeze is detected, a Pit is nearby in an adjacent room.
+
+		3) If a stench is detected, then a WUMPUS is nearby in an adjacent room. 
+
+		4) If the agent falls into the pit, the agent will die.
+
+		5) If the agent falls into a pit, it will have no knowledge of its past steps.
+
+		6) The WUMPUs is stationed and cannot move.
+
+		7) The agent will be aware if there are walls around. 
+
+		8) Goal of the agent is to get to the treasure.
+
+
+
+
